@@ -81,8 +81,7 @@
 │   └── requirements.txt      # Зависимости фронтенда
 ├── models/
 │   └── best_model_11_efficientnetb0.keras
-├── label_encoder.pkl
-├── ДЗ_10.ipynb
+│   └── label_encoder.pkl
 └── README.md
 ```
 
